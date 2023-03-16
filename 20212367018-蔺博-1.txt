@@ -1,0 +1,109 @@
+<html>
+<head>    
+
+<title>校领导带队赴江阴市人社局调研交流</title>
+
+<body style="background-color:white">           
+<div class="container clearfix">
+<div style="position: fixed; top: 25px;left:25px;">         
+<aside style="float: left">                            
+   			         
+   <ul>			         
+    <li>首页
+   <ul>     	
+    <a href="https://www.cwxu.edu.cn/index/xxesd.htm" title="点击进入"><li>学习二十大</a>
+    <a href="https://www.cwxu.edu.cn/index/ddhzl.htm" title="点击进入"><li>党代会专栏</a>
+    <a href="https://www.cwxu.edu.cn/index/xyxw.htm" title="点击进入"><li>校园新闻</a>				
+    <a href="https://www.cwxu.edu.cn/index/xyyw.htm" title="点击进入"><li>校园要闻</a>	
+    <a href="https://www.cwxu.edu.cn/index/xykx.htm" title="点击进入"><li>校园快讯</a>
+    <a href="https://www.cwxu.edu.cn/notice_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039" title="点击进入"><li>通知公告</a>
+    <a href="https://www.cwxu.edu.cn/hyan_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1040" title="点击进入"><li>会议安排</a>
+    <a href="https://www.cwxu.edu.cn/index/xsdt1.htm" title="点击进入"><li>学术动态</a>
+    <a href="https://www.cwxu.edu.cn/index/mtjj.htm" title="点击进入"><li>媒体聚焦</a>
+    <a href="https://www.cwxu.edu.cn/index/xyyx.htm" title="点击进入"><li>校园印象</a>
+   </ul> 
+    </aside>
+ </div>
+
+     
+
+ <main style="float: right">
+    <h1 style="text-align:center;"><a name="top">校领导带队赴江阴市人社局调研交流</a></h1>
+
+<hr width="70%"/>  
+    <p style="text-indent:2em;">为进一步推进“访企拓岗促就业”专项行动，加强校地合作交流，助力我校2023届毕业生高质量就业，3月7日，校党委常委、副校长左同宇带队赴江阴市人社局走访交流。江阴市人社局党委副书记、副局长沈宏伟等出席交流活动。</p>
+    <p style="text-indent:2em;">沈宏伟代表江阴人社局对左同宇一行到访表示热烈欢迎，介绍了江阴概况、产业布局、人才引进等一系列配套政策以及我校往届毕业生在江阴的工作情况。他表示江阴市人社局将积极支持配合我校开展就业创业服务工作，希望能与我校达成全方位、多层次的校地合作，吸引更多无锡学院学子留在江阴、留在无锡，更好地服务地方经济社会发展，实现双方合作共赢的良好局面。</p>
+
+      <div align="center">
+        <p><img src="./1.png"></p>
+        <p>座谈会现场</p>
+      </div>
+
+    <p style="text-indent:2em;">左同宇介绍了学校近年来在专业建设、学科发展、人才培养等方面的基本情况以及2023届毕业生生源情况，并代表学校感谢江阴市人社局对学校发展的关心与支持，邀请江阴市来校举办专场校园招聘会。他表示学校将不断提升人才培养质量，培养德智体美劳全面发展的高素质应用型创新人才，为无锡市、为江阴市输送更多的优秀毕业生，增强我校社会影响力和认可度。
+
+      <div align="center">
+        <p><img src="./2.png"></p>
+        <p>副校长左同宇讲话</p>
+      </div>
+
+    <p style="text-indent:2em;">会上，双方围绕人才培养、校地合作机制创新、就业渠道拓展、就业工作站建设等方面进行了深入交流与探讨。会后，在人社局领导的陪同下，左同宇一行调研走访了江阴信邦电子有限公司。
+      
+      <div align="center">
+        <p><img src="./3.png"></p>
+        <p>调研企业</p>
+      </div>
+
+    <p style="text-indent:2em;">下一步，我校将继续与各级人社部门和行业企业加强交流和合作，加强政校企协同育人，充分发挥各自优势，实现资源共享、优势互补、协同发展、信息共享，抢抓春季促就业工作关键期，全力促进高校毕业生顺利就业。（学生工作处/文、图：郑瑶、陈凯峰；审核：张灿龙）
+
+
+<div style="line-height:30px">
+<a href="https://www.cwxu.edu.cn/info/1033/13063.htm" target="_blank" title="点击进入">上一条:校领导带队赴江苏隆达超合金股份有限公司调研交流</a><br/>
+<a href="https://www.cwxu.edu.cn/info/1033/13057.htm" target="_blank" title="点击进入">下一条:2023年”太湖讲习所·开学第一课"暨”锡音潮涌“融媒体采访启动仪式在我校举行</a><br/>
+</div>
+</main>
+</div>
+</body>
+</html>
+
+
+
+<style type="text/css">
+    .container {padding:5px;margin:5px;-webkit-box-sizing: border-box;}            
+    @media screen and (max-width: 1366px) {.container {width: 1116px;}}
+    @media screen and (min-width: 1366px) {.container {width: 1366px;}}
+
+    .clearfix:after {content: '.';height:100px;visibility: hidden;display: block;clear: both;}
+
+    aside {width: 250px;background:Khaki;height:350px;}                  
+    main {background-color:white;height: 1850px;}                      
+
+    @media screen and (max-width: 1366px) {.container main {width: 760px;}}
+    @media screen and (min-width: 1366px) {.container main {width: 1010px;}}
+</style>
+
+
+
+<details>
+ <summary style="color:blue;font-size:20px;line-height:50px">友情链接</summary>
+ <ol>
+  <a href="https://cas.cwxu.edu.cn/lyuapServer/login?service=http%3A%2F%2Foa.cwxu.edu.cn%3A8091%2Fsso%2Findex.jsp" title="点击进入">办公系统
+  |<a href="http://jwgl.cwxu.edu.cn/jwglxt/xtgl/login_slogin.html?language=zh_CN&_t=1552440018518" title="点击进入">教务系统</a>
+  |<a href="https://aolan.cwxu.edu.cn/login.aspx" title="点击进入">学工系统</a>
+  |<a href="http://hr.cwxu.edu.cn/base/frame/login.jsp?FM_SYS_ID=bjxy" title="点击进入">人事系统</a>
+  |<a href="http://bjxy.fanya.chaoxing.com/portal" title="点击进入">网络教学综合服务平台</a>
+</ol>
+</details>
+
+
+
+<hr/ color="Mazarine" size="6" align="center">
+<li>联系方式
+    <dl>
+  <dt>电话：0510-88531333</dt>
+  <dt>地址：无锡市锡山大道333号</dt>
+  <dt>邮编：214105</dt>
+  </dl>
+</html>
+</head>
+
+
